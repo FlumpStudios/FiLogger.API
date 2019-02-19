@@ -12,13 +12,11 @@ namespace FiLogger.Service.Services
     public class CustomerService : ICustomerService
     {
         private readonly ICustomerRepository _customerRepository;
-        private readonly ICryptoManager _cryptoManager;
         private readonly ILogger<CustomerService> _logger;
          
-        public CustomerService(ICustomerRepository customerRepository, ICryptoManager cryptoManager, ILogger<CustomerService> logger)
+        public CustomerService(ICustomerRepository customerRepository, ILogger<CustomerService> logger)
         {
             _customerRepository = customerRepository;
-            _cryptoManager = cryptoManager;
             _logger = logger;
         }
 
