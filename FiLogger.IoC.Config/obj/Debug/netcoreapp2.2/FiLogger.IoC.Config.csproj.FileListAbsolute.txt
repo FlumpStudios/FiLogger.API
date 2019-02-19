@@ -14,3 +14,18 @@ C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.I
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.csproj.CopyComplete
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.dll
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.pdb
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\FiLogger.IoC.Config.deps.json
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\FiLogger.IoC.Config.dll
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\FiLogger.IoC.Config.pdb
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\CryptoLib.dll
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\FiLogger.API.DataContracts.dll
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\FiLogger.Common.dll
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\FiLogger.API.DataContracts.pdb
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\FiLogger.Common.pdb
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\bin\Debug\netcoreapp2.2\CryptoLib.pdb
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.csprojResolveAssemblyReference.cache
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.csproj.CoreCompileInputs.cache
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.AssemblyInfoInputs.cache
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.AssemblyInfo.cs
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.dll
+E:\Dev\FiLogger.API\FiLogger.IoC.Config\obj\Debug\netcoreapp2.2\FiLogger.IoC.Config.pdb

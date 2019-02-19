@@ -14,3 +14,18 @@ C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.D
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.csproj.CopyComplete
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.dll
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.pdb
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\FiLogger.DataAccess.deps.json
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\FiLogger.DataAccess.dll
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\FiLogger.DataAccess.pdb
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\CryptoLib.dll
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\FiLogger.Common.dll
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\FiLogger.Context.dll
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\FiLogger.Context.pdb
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\CryptoLib.pdb
+E:\Dev\FiLogger.API\FiLogger.DataAccess\bin\Debug\netcoreapp2.2\FiLogger.Common.pdb
+E:\Dev\FiLogger.API\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.csprojResolveAssemblyReference.cache
+E:\Dev\FiLogger.API\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.csproj.CoreCompileInputs.cache
+E:\Dev\FiLogger.API\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.AssemblyInfoInputs.cache
+E:\Dev\FiLogger.API\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.AssemblyInfo.cs
+E:\Dev\FiLogger.API\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.dll
+E:\Dev\FiLogger.API\FiLogger.DataAccess\obj\Debug\netcoreapp2.2\FiLogger.DataAccess.pdb

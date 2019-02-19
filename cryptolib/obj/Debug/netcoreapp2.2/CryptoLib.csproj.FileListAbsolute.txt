@@ -7,3 +7,12 @@ C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.AssemblyInfo.cs
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.dll
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.pdb
+E:\Dev\FiLogger.API\cryptolib\bin\Debug\netcoreapp2.2\CryptoLib.deps.json
+E:\Dev\FiLogger.API\cryptolib\bin\Debug\netcoreapp2.2\CryptoLib.dll
+E:\Dev\FiLogger.API\cryptolib\bin\Debug\netcoreapp2.2\CryptoLib.pdb
+E:\Dev\FiLogger.API\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.csprojResolveAssemblyReference.cache
+E:\Dev\FiLogger.API\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.csproj.CoreCompileInputs.cache
+E:\Dev\FiLogger.API\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.AssemblyInfoInputs.cache
+E:\Dev\FiLogger.API\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.AssemblyInfo.cs
+E:\Dev\FiLogger.API\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.dll
+E:\Dev\FiLogger.API\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.pdb

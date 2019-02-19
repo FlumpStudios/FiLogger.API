@@ -12,3 +12,16 @@ C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\fiLogger.C
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.csproj.CopyComplete
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.dll
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.pdb
+E:\Dev\FiLogger.API\fiLogger.Common\bin\Debug\netcoreapp2.2\FiLogger.Common.deps.json
+E:\Dev\FiLogger.API\fiLogger.Common\bin\Debug\netcoreapp2.2\FiLogger.Common.runtimeconfig.json
+E:\Dev\FiLogger.API\fiLogger.Common\bin\Debug\netcoreapp2.2\FiLogger.Common.runtimeconfig.dev.json
+E:\Dev\FiLogger.API\fiLogger.Common\bin\Debug\netcoreapp2.2\FiLogger.Common.dll
+E:\Dev\FiLogger.API\fiLogger.Common\bin\Debug\netcoreapp2.2\FiLogger.Common.pdb
+E:\Dev\FiLogger.API\fiLogger.Common\bin\Debug\netcoreapp2.2\CryptoLib.dll
+E:\Dev\FiLogger.API\fiLogger.Common\bin\Debug\netcoreapp2.2\CryptoLib.pdb
+E:\Dev\FiLogger.API\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.csprojResolveAssemblyReference.cache
+E:\Dev\FiLogger.API\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.csproj.CoreCompileInputs.cache
+E:\Dev\FiLogger.API\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.AssemblyInfoInputs.cache
+E:\Dev\FiLogger.API\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.AssemblyInfo.cs
+E:\Dev\FiLogger.API\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.dll
+E:\Dev\FiLogger.API\fiLogger.Common\obj\Debug\netcoreapp2.2\FiLogger.Common.pdb

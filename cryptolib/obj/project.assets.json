@@ -684,11 +684,10 @@
   },
   "libraries": {
     "Microsoft.EntityFrameworkCore/2.0.3": {
-      "sha512": "UgEPEETDdkNA9i5wwExwlHUECoqTQ8oE947igxykRtwhxwva3bSoOkjYKbCmT5iE4Fv2IwZaYQamNQShcl5GRQ==",
+      "sha512": "h1qEOSOyYQU4SiPR2bvKHcH3Ik2z3eXlrlAt8WiP8AmtaUEUiEWVE/WUP5i2MvL067TJkMFuRoVOS2YU1VjiPg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/2.0.3",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.dll",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.xml",
@@ -697,11 +696,10 @@
       ]
     },
     "Microsoft.Extensions.Caching.Abstractions/2.0.2": {
-      "sha512": "TPBYXNR47ghcjyWBgYjK2JxXzAUViDNoz/sbGoggKUziyzjehebVfHMQXeLnvgSk949CzQ5djLrYf/tMpu8iGA==",
+      "sha512": "X0+dBcQHmOlPz2BOty8mQtku0TCffCIkvqEvLi4iNNubDjY0G1zwFVpBdJb1P0nEMbcfbh3EgBVHf8OJWvq3iw==",
       "type": "package",
       "path": "microsoft.extensions.caching.abstractions/2.0.2",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml",
@@ -710,11 +708,10 @@
       ]
     },
     "Microsoft.Extensions.Caching.Memory/2.0.2": {
-      "sha512": "smlBYh12X5SBCTkosZY1Vld/DkHcz1KxvJ6/N1M221F5ZBik+m83BhzkUN1+CGc/7UWfkonXrvtnkwCgKW34KA==",
+      "sha512": "tI8xks60vEmuRiXDwnRBnNWEZG5CeInh2ZyAhBelkxhNM8hDZJDw4tnyCRCeyHFh+oi7dQXMSIij67S3p5SvYg==",
       "type": "package",
       "path": "microsoft.extensions.caching.memory/2.0.2",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml",
@@ -745,11 +742,10 @@
       ]
     },
     "Microsoft.Extensions.Logging/2.0.2": {
-      "sha512": "yWnhg6DXApp14wxbODmSfCKv2fEZmxdEPYINXv73jtdIxw3wORIdLG2LniCNIcGMn4V/6CwZcTlq82wHhnZYOA==",
+      "sha512": "OAfe/ju23vgXyqG/E9eDQ8lE5ydMV/IruvHqZ8MRi3T8DTpdL+kDGhDR/zqChnnTcalsZV31bB1OPn75RLHdqQ==",
       "type": "package",
       "path": "microsoft.extensions.logging/2.0.2",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.xml",
@@ -758,11 +754,10 @@
       ]
     },
     "Microsoft.Extensions.Logging.Abstractions/2.0.2": {
-      "sha512": "xH49DgYQWwxB4r18Yc3SyYCXXrFpcLnVfxJlp4WktMfYHtNRbqd2Phdf6XQ0G91whVlKb2XZsOAY6be2AMWE+g==",
+      "sha512": "B1F5GAMGCIuYzL1LouJ08ie+CrTYGzLVd1gfJHWpjXtIfNwzs2PZxsuLYLIAqMTlpiDcoB8PSZHbzU5bMOi+gg==",
       "type": "package",
       "path": "microsoft.extensions.logging.abstractions/2.0.2",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
@@ -771,11 +766,10 @@
       ]
     },
     "Microsoft.Extensions.Options/2.0.2": {
-      "sha512": "LnDPWzNWaMG3LusEXVCfODBcsCb2LpZ1xaUSojMXj4jhQkTJ7uDQH9dhkN4isJZSKeT5lXtW9s2hUY2S9F5E9Q==",
+      "sha512": "OrIk/xmo5rsN4ufV32cjAQgM9uCoe6FaNijFX7Huwdg8T3z5L5r1kMBMwjROvDJZNiNkcfJ6iJi2JhCRi6GTfA==",
       "type": "package",
       "path": "microsoft.extensions.options/2.0.2",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Options.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
@@ -2771,23 +2765,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paul.marrable\\.nuget\\packages\\": {},
+    "C:\\Users\\FlumpStudios\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\paul.marrable\\Documents\\Visual Studio 2017\\Projects\\FiLogger\\cryptolib\\CryptoLib.csproj",
+      "projectUniqueName": "E:\\Dev\\FiLogger.API\\cryptolib\\CryptoLib.csproj",
       "projectName": "CryptoLib",
-      "projectPath": "C:\\Users\\paul.marrable\\Documents\\Visual Studio 2017\\Projects\\FiLogger\\cryptolib\\CryptoLib.csproj",
-      "packagesPath": "C:\\Users\\paul.marrable\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paul.marrable\\Documents\\Visual Studio 2017\\Projects\\FiLogger\\cryptolib\\obj\\",
+      "projectPath": "E:\\Dev\\FiLogger.API\\cryptolib\\CryptoLib.csproj",
+      "packagesPath": "C:\\Users\\FlumpStudios\\.nuget\\packages\\",
+      "outputPath": "E:\\Dev\\FiLogger.API\\cryptolib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paul.marrable\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FlumpStudios\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2813,12 +2810,12 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[2.0.3, )"
+            "version": "2.0.3"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.2.0, )",
+            "version": "2.2.0",
             "autoReferenced": true
           }
         },
