@@ -23,3 +23,27 @@ C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.T
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.csproj.CopyComplete
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.dll
 C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.pdb
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Tests.deps.json
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Tests.runtimeconfig.json
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Tests.runtimeconfig.dev.json
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Tests.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Tests.pdb
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\CryptoLib.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Common.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Context.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.DataAccess.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Service.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.DataAccess.pdb
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Service.pdb
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\CryptoLib.pdb
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Common.pdb
+E:\Dev\FiLogger.API\FiLogger.Tests\bin\Debug\netcoreapp2.2\FiLogger.Context.pdb
+E:\Dev\FiLogger.API\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.csprojResolveAssemblyReference.cache
+E:\Dev\FiLogger.API\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.csproj.CoreCompileInputs.cache
+E:\Dev\FiLogger.API\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.AssemblyInfoInputs.cache
+E:\Dev\FiLogger.API\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.AssemblyInfo.cs
+E:\Dev\FiLogger.API\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.dll
+E:\Dev\FiLogger.API\FiLogger.Tests\obj\Debug\netcoreapp2.2\FiLogger.Tests.pdb
