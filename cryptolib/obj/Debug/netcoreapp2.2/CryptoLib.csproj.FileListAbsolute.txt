@@ -1,0 +1,9 @@
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\bin\Debug\netcoreapp2.2\CryptoLib.deps.json
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\bin\Debug\netcoreapp2.2\CryptoLib.dll
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\bin\Debug\netcoreapp2.2\CryptoLib.pdb
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.csprojAssemblyReference.cache
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.csproj.CoreCompileInputs.cache
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.AssemblyInfoInputs.cache
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.AssemblyInfo.cs
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.dll
+C:\Users\paul.marrable\Documents\Visual Studio 2017\Projects\FiLogger\cryptolib\obj\Debug\netcoreapp2.2\CryptoLib.pdb
