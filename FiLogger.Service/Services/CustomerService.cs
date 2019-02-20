@@ -22,6 +22,7 @@ namespace FiLogger.Service.Services
 
          public async Task<IEnumerable<CustomerDetails>> GetCustomerDetails()
          {
+            _logger.LogError("This is a test log");
             IEnumerable<CustomerDetails> customer = null;
 
             try
